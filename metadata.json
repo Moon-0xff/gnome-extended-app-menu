@@ -1,0 +1,9 @@
+{
+    "uuid": "extendedAppMenuButton@moon-0xff.github.com",
+    "name": "Extended App Menu Button",
+    "description": "Extended App Menu Button",
+    "version": 1,
+    "shell-version": [ "3.36", "3.38", "40", "41", "42", "43" ],
+    "url": "https://github.com/Moon-0xff/gnome-extended-app-menu-button"
+}
+
